@@ -6,7 +6,7 @@
 
 [![youtube](https://img.shields.io/badge/YouTube-SUB-red?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 
-[![Discord](https://img.shields.io/badge/DISCORD-JOIN-green?logo=Discord&logoColor=white)][discord]
+[![discord](https://img.shields.io/badge/DISCORD-JOIN-green?logo=Discord&logoColor=white)][discord]
 
 ## Hi :) i am a Fivem Developer and i love to write Codes
 
@@ -62,6 +62,8 @@
 
 [youtube]: https://m.youtube.com/channel/UCat7aDkSWObN3V0HC1sY-9w
 
+## [💭] Contact <a name = "contact"></a>
+
 <p align="center">
 
 <h4> Discord [🔥] : ALONE-OP#0001 </h4>
@@ -75,6 +77,5 @@
 <h4> YouTube [🔴] :  ALONE-OP </h4>
 
 </p>
-
 
 
