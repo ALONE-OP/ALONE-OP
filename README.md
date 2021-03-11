@@ -1,4 +1,3 @@
-
 <h3 align="center">[ ALONE ]</h3>
 
 <h1 align="center"> ALONE-OP : )
@@ -62,3 +61,20 @@
 [discord]: https://discord.gg/H9XEBqm
 
 [youtube]: https://m.youtube.com/channel/UCat7aDkSWObN3V0HC1sY-9w
+
+<p align="center">
+
+<h4> Discord [🔥] : ALONE-OP#0001 </h4>
+
+  <br> 
+
+<h4> Github [🗒️] : www.github.com/ALONE-OP </h4>
+
+  <br> 
+
+<h4> YouTube [🔴] :  ALONE-OP </h4>
+
+</p>
+
+
+
