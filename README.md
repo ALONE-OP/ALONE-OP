@@ -4,7 +4,7 @@
 [![youtube](https://img.shields.io/badge/YouTube-SUB-red?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 [![Discord](https://img.shields.io/discord/340568729634996225?label=Discord&logo=Discord)][discord]
 
-## I am a FiveM Developer and I live to Write Codes.
+## I am a FiveM Developer and I love to Write Codes.
 
 - ✏️ Currently Developing on Good QBUS scripts
 - ✏️ I am also Re-creating QBUS CORE with better Adaptations
