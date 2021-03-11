@@ -7,7 +7,7 @@
 
 [![youtube](https://img.shields.io/badge/YouTube-SUB-red?&style=for-the-badge&logo=youtube&logoColor=white)][youtube]
 
-[![Discord](https://img.shields.io/badge/Discord-JOIN-green?logo=Discord&logoColor=bluevilot)][discord]
+[![Discord](https://img.shields.io/badge/DISCORD-JOIN-green?logo=Discord&logoColor=white)][discord]
 
 ## Hi :) i am a Fivem Developer and i love to write Codes
 
