@@ -68,11 +68,11 @@
 
 <h4> Discord [🔥] : ALONE-OP#0001 </h4>
 
-  <br> 
+
 
 <h4> Github [🗒️] : www.github.com/ALONE-OP </h4>
 
-  <br> 
+
 
 <h4> YouTube [🔴] :  ALONE-OP </h4>
 
