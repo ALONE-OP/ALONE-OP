@@ -62,7 +62,7 @@ align="center">
 
 <br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALONE-OP&show_icons=true&theme=gotham" alt="ALONE-OP" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALONE-OP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 
 [discord]: https://discord.gg/H9XEBqm
 
