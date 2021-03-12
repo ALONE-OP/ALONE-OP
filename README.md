@@ -56,8 +56,8 @@
 
 📈 My GitHub Stats
 
-<p align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALONE-OP&theme=light&hide_langs_below=1" />
-
+<a align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALONE-OP&theme=light&hide_langs_below=1" />
+</a>
 <br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALONE-OP&show_icons=true&theme=gotham" alt="ALONE-OP" />
