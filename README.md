@@ -55,9 +55,11 @@
 </br>
 
 📈 My GitHub Stats
-<a align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALONE-OP&theme=light&hide_langs_below=1" />
+
+<p align="center" <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALONE-OP&theme=light&hide_langs_below=1" />
 
 <br>
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALONE-OP&show_icons=true&theme=gotham" alt="ALONE-OP" />
 
 [discord]: https://discord.gg/H9XEBqm
