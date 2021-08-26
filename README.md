@@ -70,7 +70,7 @@
 
 <p align="center">
 
-<h4> Discord [🔥] : ALONE-OP#0001 </h4>
+<h4> Discord [🔥] : Bas1c#8365 </h4>
 
 
 
