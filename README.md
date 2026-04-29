@@ -1,5 +1,4 @@
 <h3 align="center">[ REVerse ]</h3>
-
 <h1 align="center">REVerse : )</h1>
 
 <p align="center">
@@ -15,10 +14,10 @@
 
 ## 👋 About Me
 
-- 💻 FiveM Developer (QBCore / QBus ecosystem)
-- ⚙️ Focused on **performance, clean architecture, and scalability**
-- 🔁 Rebuilding **QBUS Core** with improved abstractions & modular design
-- 🧠 Interested in **low-level systems, Lua internals, and optimization**
+- 💻 Systems-focused developer (C++ / C#)
+- ⚙️ Building **OnlyFansClient** (custom client architecture)
+- 🧠 Strong focus on **memory, rendering, and low-level optimization**
+- 🔐 Interested in **reverse engineering, obfuscation, and anti-detection**
 
 ---
 
@@ -26,9 +25,10 @@
 
 ## 🚧 Current Work
 
-- 🧩 Advanced QBCore scripts (optimized + modular)
-- 🔄 Core framework redesign (clean API + better separation)
-- 🔐 Working on secure Lua execution / obfuscation systems
+- 🧩 Custom client framework (modular + high performance)
+- 🎯 Overlay systems (DX9/DX11/DX12 compatibility)
+- 🧠 Memory interaction (safe + efficient patterns)
+- 🔐 Anti-detection & obfuscation techniques
 
 <br/>
 
@@ -37,12 +37,11 @@
 ## 🛠 Tech Stack
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="28px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png" width="28px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/cpp/cpp.png" width="28px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png" width="28px" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="28px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="28px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="28px" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="28px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" width="28px" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="28px" />
 </p>
 
 ---
@@ -59,11 +58,13 @@
 
 ---
 
-## ⚡ Philosophy
+## ⚡ Focus Areas
 
-> Clean code > clever code  
-> Performance matters  
-> If it’s not scalable, it’s temporary  
+- Low-level Windows internals
+- Graphics pipelines (DirectX)
+- Memory management & performance tuning
+- Reverse engineering workflows
+- Secure client design
 
 ---
 
@@ -71,5 +72,12 @@
 
 - Discord → [discord]  
 - YouTube → [youtube]
+
+---
+
+## ⚠️ Note
+
+This profile focuses on **learning, experimentation, and system design**.  
+No misuse-oriented development is intended or supported.
 
 ---
