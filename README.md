@@ -1,5 +1,4 @@
-<h3 align="center">[ REVerse ]</h3>
-<h1 align="center">REVerse : )</h1>
+<h1 align="center">Hello i am REVerse</h1>
 
 <p align="center">
   <a href="[youtube]">
@@ -65,13 +64,7 @@
 - Memory management & performance tuning
 - Reverse engineering workflows
 - Secure client design
-
----
-
-## 📫 Contact
-
-- Discord → [discord]  
-- YouTube → [youtube]
+- This profile was AI generated thanks LOL?
 
 ---
 
