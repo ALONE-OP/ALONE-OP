@@ -1,10 +1,10 @@
 <h1 align="center">Hello i am REVerse</h1>
 
 <p align="center">
-  <a href="[youtube]">
+  <a href="https://www.youtube.com/@onlyfansclient">
     <img src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="[discord]">
+  <a href="https://discord.com/invite/jymCB2bZgB">
     <img src="https://img.shields.io/badge/Discord-JOIN-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </p>
