@@ -17,17 +17,6 @@
 <img align="right" alt="GIF" src="https://github.com/ALONE-OP/ALONE-OP/blob/main/code.gif?raw=true" width="500" height="320" />
 
 </br>
-
-- 💬 Ask me all things FiveM LUA, I will be happy to help
-
-- 📫 How to reach me: Use my Discord which is linked below
-
-### All my Social Accounts: 
-
-[<img align="left" alt="ALONE | YOUTUBE" width="44px" src="https://img.icons8.com/fluent/48/000000/youtube-play.png" />][youtube]
-
-[<img align="left" alt="ALONE | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-
 </br>
 
 ### Tools & Code Languages: 
@@ -54,31 +43,11 @@
 
 </br>
 
-📈 My GitHub Stats
+📈 Stats
 
 <a align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALONE-OP&theme=light&hide_langs_below=1" alt="ALONE-OP" />
  
 <br>
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ALONE-OP&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-
-[discord]: https://discord.io/OSCOMMUNITY
-
-[youtube]: https://m.youtube.com/channel/UCat7aDkSWObN3V0HC1sY-9w
-
-## [💭] Contact <a name = "contact"></a>
-
-<p align="center">
-
-<h4> Discord [🔥] : Bas1c#8365 </h4>
-
-
-
-<h4> Github [🗒️] : www.github.com/ALONE-OP </h4>
-
-
-
-<h4> YouTube [🔴] :  ALONE-OP </h4>
 
 </p>
 
